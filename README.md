@@ -1,7 +1,7 @@
 ### Olá! Eu sou Marcosscheffer! fique a vontade para dar uma olhada 😉
 <ul>
   <li><code>I'm learning JavaScript.</code></li>
-  <li><code>I want to become a good developer.<>/code</li>
+  <li><code>I want to become a good developer.</code></li>
   <li><code>You can contact me through my email: marcosscheffer2989@gmail.com.</code></li>
 </ul>
 
@@ -21,4 +21,5 @@
   <div> 
   <a href="https://www.instagram.com/marcos_vini2989/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div
+  </div>
+<hr>
