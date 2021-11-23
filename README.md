@@ -1,4 +1,4 @@
-### Olá! Eu sou Marcosscheffer! fique a vontade para dar uma olhada 😉
+### <code>Olá! Eu sou Marcosscheffer! fique a vontade para dar uma olhada 😉</code>
 <ul>
   <li><code>I'm learning JavaScript.</code></li>
   <li><code>I want to become a good developer.</code></li>
