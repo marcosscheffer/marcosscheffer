@@ -1,4 +1,4 @@
-### <code>Olá! Eu sou Marcosscheffer! fique a vontade para dar uma olhada 😉</code>
+### <code>Olá! Eu sou Marcosscheffer! fique a vontade para dar uma olhada 😉.</code>
 <img src="img.png" alt="https://pin.it/1ObAXq5">
 <ul>
   <li><code>I'm learning JavaScript.</code></li>
