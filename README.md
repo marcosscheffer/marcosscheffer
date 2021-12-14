@@ -1,9 +1,9 @@
-### <code>Hi! I'm Marcosscheffer! feel free to take a look.</code>
+### Hi! I'm Marcosscheffer! feel free to take a look.
 <img src="img.png" alt="https://pin.it/1ObAXq5">
 <ul>
-  <li><code>I'm learning to program.</code></li>
-  <li><code>I want to become a good developer.</code></li>
-  <li><code>You can contact me through my email: marcosscheffer2989@gmail.com.</code></li>
+  <li>I'm learning to program.</li>
+  <li>I want to become a good developer.</li>
+  <li>You can contact me through my email: marcosscheffer2989@gmail.com.</li>
 </ul>
 
 <div>
