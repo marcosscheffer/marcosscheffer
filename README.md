@@ -1,5 +1,4 @@
 ### Hi! I'm Marcosscheffer! feel free to take a look.
-<img src="img.png" alt="https://pin.it/1ObAXq5">
 <ul>
   <li>I'm learning to program.</li>
   <li>I want to become a good developer.</li>
