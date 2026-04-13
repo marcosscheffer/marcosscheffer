@@ -1,5 +1,3 @@
-# Hello
-
 I’m a software development student focused on building practical projects and improving my skills across different technologies.
 
 I enjoy working with code, learning new tools, and understanding how systems work from end to end.
