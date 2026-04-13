@@ -10,10 +10,5 @@
 - Java
 - Spring Boot
 - MySQL / PostgreSQL
-- Python
-- Flask
-- Rust
-- JavaScript
-- React.js
 
 ---
